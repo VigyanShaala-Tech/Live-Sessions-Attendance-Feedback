@@ -194,4 +194,5 @@ if st.button(combined_button_text):
     data_to_insert = combined_df.values.tolist()
     sheet.update(f'A{next_row_index}', data_to_insert)
     st.write("Feedback data inserted successfully")
+    st.balloons()
     
