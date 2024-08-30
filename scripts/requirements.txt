@@ -64,7 +64,6 @@ pillow==10.3.0
 platformdirs==4.2.1
 pluggy==1.5.0
 postgrest==0.16.8
-postgrest-py==0.4.0
 prompt-toolkit==3.0.43
 protobuf==4.25.3
 psutil==5.9.8
