@@ -35,7 +35,7 @@ gspread== 6.1.2
 h11== 0.14.0
 httpcore== 0.12.3
 httplib2== 0.22.0
-httpx== 0.16.1
+httpx>=0.24,<0.28
 idna== 2.10
 iniconfig== 2.0.0
 ipykernel== 6.29.4
